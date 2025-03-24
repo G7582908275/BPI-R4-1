@@ -21,7 +21,7 @@ env:
   REPO_BRANCH: filogic
   CONFIG_FILE: configs/lean/R4.config
   DIY_SH: scripts/lean.sh
-  IPV6MOD_IN_FIRMWARE: true
+  IPV6MOD_IN_FIRMWARE: false
   KMODS_IN_FIRMWARE: true
   UPLOAD_WETRANSFER: true
   UPLOAD_RELEASE: true
